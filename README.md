@@ -1,2 +1,2 @@
 # image-gallery
-Image gallery website using CSS
+Image gallery website using HTML and CSS
